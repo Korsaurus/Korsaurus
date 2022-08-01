@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Korsaurus
-- 👀 I’m interested in Front-End development and learning as much as possible about the complex subject of coding to eventually become a Full-Stack dev.
-- 🌱 I’m currently learning how to create an e-commerce site with online ordering as well as a real time chat site.
+- 👀 I’m interested in Python.
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me at grkorsos@gmail.com.
 
