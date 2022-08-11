@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Korsaurus
-- 👀 I’m interested in Python.
-
-- 💞️ I’m looking to collaborate on ...
+Check out my personal site: <br>
+https://gregsportfoliosite.herokuapp.com/
 - 📫 How to reach me: Email me at grkorsos@gmail.com.
 
 <!---
